@@ -1,4 +1,4 @@
-/* Programme réalisé par le groupe de Xavier Valck Breton, Thomas Badana et Isaié Donies
+/* Programme réalisé par MisterXav
  * Le but est de récupérer la température, l'humidité et le C02 présent dans la salle, et de l'afficher sur un écran LCD
  * Le programme fonctionne le 24/02/2022
  * Le but final est d'envoyer les données sur une page web afin qu'elles y soient stockés
